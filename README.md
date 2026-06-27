@@ -1,7 +1,14 @@
 # DUCKODUCKO 🦆
 
-A whimsical duck-hopping roguelike.
+A whimsical top-down, tap-to-hop duck roguelike, built in Godot.
 
-**Grab the latest build from [Releases](https://github.com/scottx611x/duckoducko-web/releases).**
+## ▶ Play now → https://duckoducko.scott-ouellette.com
 
-- Android: download the APK on your phone, allow "install unknown apps", open it.
+- **Browser** — just open the link above, no install.
+- **Android** — download `duckoducko.apk` from the [latest release](https://github.com/scottx611x/duckoducko-web/releases/latest), allow "install unknown apps", and open it.
+
+New builds ship here automatically, often several times a day.
+
+---
+
+<sub>This is the public play-and-download mirror — each release carries the web build and the Android APK.</sub>
